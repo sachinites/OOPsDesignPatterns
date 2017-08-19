@@ -1,8 +1,8 @@
 /*
- +------------------------------------------------------------------------+
- |  Command Pattern : conrolling the multiple pbjects to change their state|
- |  on issuing a command to them from a single controller                 |
- +------------------------------------------------------------------------+
+ +-------------------------------------------------------------------------+
+ |  Command Pattern : conrolling the multiple objects to change their state|
+ |  on issuing a command to them from a single controller                  |
+ +-------------------------------------------------------------------------+
 */                                                                         
 
 class Main{
